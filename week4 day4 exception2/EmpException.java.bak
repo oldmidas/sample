@@ -1,0 +1,6 @@
+public class Empxception extends Exception {
+	public Empxception () {}
+	public Empxception (String message) {
+		super(message);
+	}
+}
